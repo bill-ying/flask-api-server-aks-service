@@ -21,5 +21,5 @@ Once the code is built and deployed, the following resources will be available i
 
 - The Flask REST API server can be accessed via the following URL:
 
-- http://service-external-ip-address
+- http://external-ip-address-of-flask-api-service
 
