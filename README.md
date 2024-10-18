@@ -11,7 +11,7 @@ This is a proof of concept (POC) project demonstrating how to use Azure DevOps t
 
 # Deployment Overview
 
-Once the code is built and deployed, the following resources will be available in the Azure portal:
+Once the code is built and deployed by the provided pipelines using Azure DevOps, the following resources will be available in the Azure portal:
 
 - A Docker image named flask-api-server in ACR.
 - A workload named flask-api-server with the corresponding pod deployed to the AKS cluster.
